@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=⬡+Immersive+XR+Experience+Platform;⬡+3D+Spatial+Web+%7C+React+Three+Fiber;⬡+Cinematic+Scroll+Animations;⬡+Futuristic+Glassmorphism+UI%2FUX;⬡+Real-Time+Interactive+3D+Models;⬡+Next-Gen+AR%2FVR+Training+Interface)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=Immersive+XR+Experience+Platform;3D+Spatial+Web+%7C+React+Three+Fiber;Cinematic+Scroll+Animations;Futuristic+Glassmorphism+UI%2FUX;Real-Time+Interactive+3D+Models;Next-Gen+AR%2FVR+Training+Interface)](https://git.io/typing-svg)
 
 <br/>
 
@@ -37,20 +37,18 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    ░░░  ENTER THE SPATIAL WEB  ░░░                               ║
-║    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
-║    Where Reality Meets the Digital Dimension                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+
+                                                                
+                            ENTER THE SPATIAL WEB                                
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                      Where Reality Meets the Digital Dimension                     
 ```
 
 </div>
 
 ---
 
-## 🌌 Project Overview
+##  Project Overview
 
 > **DrobospaceX AR/VR Experience Website** — An immersive, cinematic XR platform built during an internship at **DrobospaceX Automation**, designed to showcase their AR/VR Training Institute through a fully spatial, futuristic web experience.
 
@@ -61,19 +59,19 @@ The platform was engineered to push the boundaries of web interactivity — deli
 <table>
 <tr>
 <td width="33%" align="center">
-<h3>◈ AUGMENTED</h3>
+<h3> AUGMENTED</h3>
 <code>AR Overlays</code><br/>
 <code>Spatial Anchors</code><br/>
 <code>Real-world Fusion</code>
 </td>
 <td width="33%" align="center">
-<h3>◈ VIRTUAL</h3>
+<h3> VIRTUAL</h3>
 <code>Full Immersion</code><br/>
 <code>3D Environments</code><br/>
 <code>Interactive Models</code>
 </td>
 <td width="33%" align="center">
-<h3>◈ EXTENDED</h3>
+<h3> EXTENDED</h3>
 <code>XR Ecosystem</code><br/>
 <code>Spatial Computing</code><br/>
 <code>AI Interaction</code>
@@ -83,59 +81,59 @@ The platform was engineered to push the boundaries of web interactivity — deli
 
 ---
 
-## ✨ Feature Matrix
+##  Feature Matrix
 
-### 🎬 Cinematic Intro Experience
+###  Cinematic Intro Experience
 ```
-[▓▓▓▓▓▓▓▓▓▓] Animated Entry Loader       ━━ Holographic boot sequence
-[▓▓▓▓▓▓▓▓▓▓] 3D Logo Animation           ━━ Real-time Three.js geometry
-[▓▓▓▓▓▓▓▓▓▓] Smooth Scene Transitions    ━━ Framer Motion orchestration
-[▓▓▓▓▓▓▓▓▓▓] Futuristic Glow Effects     ━━ Custom shader-inspired CSS
-```
-
-### 🥽 Immersive XR Sections
-```
-[▓▓▓▓▓▓▓▓▓▓] Interactive 3D Headset      ━━ GLTF/GLB model showcase
-[▓▓▓▓▓▓▓▓▓▓] Floating Meta Quest CTRLs   ━━ Physics-aware hover animations
-[▓▓▓▓▓▓▓▓▓▓] Scroll-based Storytelling   ━━ Spatial narrative flow
-[▓▓▓▓▓▓▓▓▓▓] Dynamic Lighting            ━━ R3F environment maps + particles
+Animated Entry Loader       ━━ Holographic boot sequence
+3D Logo Animation           ━━ Real-time Three.js geometry
+Smooth Scene Transitions    ━━ Framer Motion orchestration
+Futuristic Glow Effects     ━━ Custom shader-inspired CSS
 ```
 
-### 🌐 Modern UI/UX Design Language
+###  Immersive XR Sections
 ```
-[▓▓▓▓▓▓▓▓▓▓] Glassmorphism Components    ━━ Frosted spatial panels
-[▓▓▓▓▓▓▓▓▓▓] Animated Gradients          ━━ Living color environments
-[▓▓▓▓▓▓▓▓▓▓] Responsive Layout           ━━ All viewports, all devices
-[▓▓▓▓▓▓▓▓▓▓] Premium Futuristic Visuals  ━━ XR-native design language
+Interactive 3D Headset      ━━ GLTF/GLB model showcase
+Floating Meta Quest CTRLs   ━━ Physics-aware hover animations
+Scroll-based Storytelling   ━━ Spatial narrative flow
+Dynamic Lighting            ━━ R3F environment maps + particles
 ```
 
-### ⚡ Performance Architecture
+###  Modern UI/UX Design Language
 ```
-[▓▓▓▓▓▓▓▓▓▓] Lazy-loaded 3D Models       ━━ Suspense + LOD optimization
-[▓▓▓▓▓▓▓▓▓▓] Optimized Animations        ━━ GPU-composited transforms
-[▓▓▓▓▓▓▓▓▓▓] Smooth 60fps Rendering      ━━ R3F fiber performance loop
+Glassmorphism Components    ━━ Frosted spatial panels
+Animated Gradients          ━━ Living color environments
+Responsive Layout           ━━ All viewports, all devices
+Premium Futuristic Visuals  ━━ XR-native design language
+```
+
+###  Performance Architecture
+```
+Lazy-loaded 3D Models       ━━ Suspense + LOD optimization
+Optimized Animations        ━━ GPU-composited transforms
+Smooth 60fps Rendering      ━━ R3F fiber performance loop
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
 | Layer | Technology | Purpose |
 |:---:|:---|:---|
-| 🖥️ **Framework** | Next.js 14 | App Router, SSR, Routing |
-| ⚛️ **UI** | React.js | Component Architecture |
-| 🌐 **3D Engine** | Three.js + React Three Fiber | Spatial 3D Rendering |
-| 🎭 **Animation** | Framer Motion | Cinematic UI Transitions |
-| 🎨 **Styling** | Tailwind CSS | Utility-first Theming |
-| 🧩 **3D Helpers** | Drei | Camera, Controls, Loaders |
+|  **Framework** | Next.js 14 | App Router, SSR, Routing |
+|  **UI** | React.js | Component Architecture |
+|  **3D Engine** | Three.js + React Three Fiber | Spatial 3D Rendering |
+|  **Animation** | Framer Motion | Cinematic UI Transitions |
+|  **Styling** | Tailwind CSS | Utility-first Theming |
+|  **3D Helpers** | Drei | Camera, Controls, Loaders |
 
 </div>
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ◈ drobospace-xr/
@@ -159,7 +157,7 @@ The platform was engineered to push the boundaries of web interactivity — deli
 
 ---
 
-## 🚀 Launch Sequence
+##  Launch Sequence
 
 ```bash
 # ◈ STEP 01 — Clone the XR Repository
@@ -180,7 +178,7 @@ npm run dev
 
 ---
 
-## 🎯 Internship Experience
+##  Internship Experience
 
 <div align="center">
 
@@ -188,7 +186,7 @@ npm run dev
 ╔══════════════════════════════════════════════╗
 ║         DrobospaceX Automation               ║
 ║         AR/VR Training Institute             ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
 ║  Role    → Immersive Web Developer (Intern)  ║
 ║  Type    → Project-based · Unpaid            ║
 ║  Output  → Full XR Experience Platform       ║
@@ -198,45 +196,6 @@ npm run dev
 </div>
 
 The company was building a futuristic AR/VR platform for their training institute and encouraged interns to contribute **innovative, boundary-pushing ideas**. This project is the result — a fully immersive XR-themed web experience developed with creative freedom and technical depth.
-
-**Skills Unlocked During This Journey:**
-
-| Skill | Level |
-|:---|:---|
-| Three.js & WebGL | `████████░░` Advanced |
-| React Three Fiber | `████████░░` Advanced |
-| 3D Model Integration (GLTF/GLB) | `███████░░░` Proficient |
-| XR-themed UI/UX Design | `█████████░` Expert |
-| Interactive Scroll Animations | `████████░░` Advanced |
-| Next.js App Router | `█████████░` Expert |
-
----
-
-## 🌟 Highlights
-
-```
-  ⬡  Immersive 3D Storytelling          — Scroll-synced spatial narrative
-  ⬡  XR-Inspired Futuristic Interface   — Glassmorphism + holographic UI
-  ⬡  Real-Time Interactive Models       — Touch/hover responsive GLB assets
-  ⬡  Modern Cinematic Web Experience    — Entry animation → exploration loop
-```
-
----
-
-## 🔭 Future XR Roadmap
-
-<div align="center">
-
-| Feature | Status |
-|:---|:---:|
-| Multiplayer Metaverse Interactions | 🔲 Planned |
-| AI-Powered XR Assistant | 🔲 Planned |
-| VR Classroom Integration | 🔲 Planned |
-| Real-Time Avatar System | 🔲 Planned |
-| WebXR Native Support | 🔲 Planned |
-| Interactive Training Simulations | 🔲 Planned |
-
-</div>
 
 ---
 
