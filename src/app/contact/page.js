@@ -29,7 +29,7 @@ export default function ContactPage() {
       <section className="mx-auto flex min-h-screen max-w-6xl items-center px-6 py-20 md:px-10">
         <div className="w-full text-center">
           <motion.h1
-            className="text-3xl sm:text-4xl md:text-[9vw] font-extrabold tracking-[0.22em] sm:tracking-[0.3em] md:tracking-[0.35em] md:leading-none"
+            className="text-2xl sm:text-3xl md:text-[8vw] font-extrabold tracking-[0.12em] sm:tracking-[0.22em] md:tracking-[0.35em] md:leading-none"
             initial={{ opacity: 0, y: 40 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
