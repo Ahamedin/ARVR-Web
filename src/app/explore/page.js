@@ -122,8 +122,8 @@ export default function ExplorePage() {
       model: {
         url: '/meta_quest_pro_right_controller.glb',
         scale: [20, 20, 20],
-        position: [0, 0.5, 0],
-        rotation: [0.3, 0, 0],
+        position: [0.5, 1, 0],
+        rotation: [0.25, 0, 0],
         float: true,
       },
 
@@ -267,7 +267,7 @@ export default function ExplorePage() {
           ) : (
             <>
               {/* MODEL */}
-              <div className="w-1/2 h-[80vh]">
+              <div className="w-full md:w-1/2 h-[50vh] md:h-[80vh]">
                 <Canvas camera={{ position: [0, 1, 5], fov: 45 }}>
                   <ambientLight intensity={1.4} />
 
