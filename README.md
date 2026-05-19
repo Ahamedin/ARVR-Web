@@ -1,237 +1,217 @@
 <div align="center">
 
-<!-- Holographic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:00f5ff&height=220&section=header&text=DrobospaceX&fontSize=80&fontColor=00f5ff&animation=twinkling&fontAlignY=40&desc=◈%20AR%20·%20VR%20·%20XR%20·%20SPATIAL%20COMPUTING%20◈&descAlignY=62&descSize=16&descColor=7df9ff" alt="DrobospaceX Banner"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b4b,100:00f5ff&height=200&section=header&text=DrobospaceX&fontSize=72&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Immersive%20AR%20%2F%20VR%20Experience%20Platform&descAlignY=58&descSize=20&descColor=7df9ff)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Immersive+XR+Experience+Platform;3D+Spatial+Web+%7C+React+Three+Fiber;Cinematic+Scroll+Animations;Futuristic+Glassmorphism+UI%2FUX;Real-Time+Interactive+3D+Models;Next-Gen+AR%2FVR+Training+Interface)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Neon Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=Immersive+XR+Experience+Platform;3D+Spatial+Web+%7C+React+Three+Fiber;Cinematic+Scroll+Animations;Futuristic+Glassmorphism+UI%2FUX;Real-Time+Interactive+3D+Models;Next-Gen+AR%2FVR+Training+Interface)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Tech Badges Row 1 -->
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00f5ff)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-0a0a2e?style=for-the-badge&logo=react&logoColor=00f5ff)](https://react.dev)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=00f5ff)](https://threejs.org)
-[![R3F](https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react&logoColor=7df9ff)](https://docs.pmnd.rs)
+[![R3F](https://img.shields.io/badge/React_Three_Fiber-0a0a2e?style=for-the-badge&logo=react&logoColor=7df9ff)](https://docs.pmnd.rs)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d0d2b?style=for-the-badge&logo=framer&logoColor=00f5ff)](https://www.framer.com/motion/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a2e?style=for-the-badge&logo=tailwind-css&logoColor=00f5ff)](https://tailwindcss.com)
 
+
 <br/>
 
-<!-- Status Badges -->
-[![Status](https://img.shields.io/badge/STATUS-LIVE-00f5ff?style=for-the-badge&labelColor=0a0a2e)](.)
-[![Platform](https://img.shields.io/badge/PLATFORM-XR%20%2F%20WEB-7df9ff?style=for-the-badge&labelColor=0d1b4b)](.)
-[![Internship](https://img.shields.io/badge/INTERNSHIP-DrobospaceX_Automation-00f5ff?style=for-the-badge&labelColor=0a0a2e)](.)
+[![Internship](https://img.shields.io/badge/Internship-DrobospaceX_Automation-7df9ff?style=for-the-badge&labelColor=0d1b4b)](.)
 
 </div>
 
 ---
 
-<div align="center">
+##  What is DrobospaceX XR?
 
-```
+**DrobospaceX** is an immersive AR/VR experience website built during an internship at **DrobospaceX Automation**, designed for their AR/VR Training Institute. It delivers a cinematic, spatial web experience where users don't just browse — they **explore**.
 
-                                                                
-                            ENTER THE SPATIAL WEB                                
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                      Where Reality Meets the Digital Dimension                     
-```
+> Built with Next.js · React Three Fiber · Three.js · Framer Motion · Tailwind CSS · Drei
 
-</div>
+Built with cutting-edge 3D web technologies, DrobospaceX transforms a standard training institute showcase into a fully immersive XR-themed digital frontier.
 
 ---
 
-##  Project Overview
-
-> **DrobospaceX AR/VR Experience Website** — An immersive, cinematic XR platform built during an internship at **DrobospaceX Automation**, designed to showcase their AR/VR Training Institute through a fully spatial, futuristic web experience.
-
-The platform was engineered to push the boundaries of web interactivity — delivering a *next-generation digital frontier* where users don't just browse, they **explore**.
-
-<br/>
+##  Features
 
 <table>
 <tr>
-<td width="33%" align="center">
-<h3> AUGMENTED</h3>
-<code>AR Overlays</code><br/>
-<code>Spatial Anchors</code><br/>
-<code>Real-world Fusion</code>
+<td width="50%">
+
+###  Cinematic Intro Experience
+- Animated entry loader
+- 3D logo animation
+- Smooth scene transitions
+- Futuristic glow effects
+
+###  Immersive XR Sections
+- Interactive 3D headset showcase
+- Floating Meta Quest controllers
+- Smooth scroll-based storytelling
+- Dynamic lighting and particles
+
+###  Modern UI/UX Design
+- Glassmorphism components
+- Animated gradients
+- Responsive layout
+- Premium futuristic visuals
+
 </td>
-<td width="33%" align="center">
-<h3> VIRTUAL</h3>
-<code>Full Immersion</code><br/>
-<code>3D Environments</code><br/>
-<code>Interactive Models</code>
-</td>
-<td width="33%" align="center">
-<h3> EXTENDED</h3>
-<code>XR Ecosystem</code><br/>
-<code>Spatial Computing</code><br/>
-<code>AI Interaction</code>
+<td width="50%">
+
+###  Performance Optimized
+- Lazy loaded 3D models
+- Optimized animations
+- Smooth 60fps rendering
+- Suspense-based model loading
+
+###  3D Model Integration
+- GLTF/GLB environment scene
+- Meta Quest Pro controller models
+- Real-time interactive model viewer
+- Physics-aware hover animations
+
+###  Pages & Navigation
+- XR Exploration portal
+- Spatial contact interface
+- Smooth page transitions
+- Mobile-responsive layout
+
 </td>
 </tr>
 </table>
 
 ---
 
-##  Feature Matrix
+## 🛠️ Tech Stack
 
-###  Cinematic Intro Experience
-```
-Animated Entry Loader       ━━ Holographic boot sequence
-3D Logo Animation           ━━ Real-time Three.js geometry
-Smooth Scene Transitions    ━━ Framer Motion orchestration
-Futuristic Glow Effects     ━━ Custom shader-inspired CSS
-```
-
-###  Immersive XR Sections
-```
-Interactive 3D Headset      ━━ GLTF/GLB model showcase
-Floating Meta Quest CTRLs   ━━ Physics-aware hover animations
-Scroll-based Storytelling   ━━ Spatial narrative flow
-Dynamic Lighting            ━━ R3F environment maps + particles
-```
-
-###  Modern UI/UX Design Language
-```
-Glassmorphism Components    ━━ Frosted spatial panels
-Animated Gradients          ━━ Living color environments
-Responsive Layout           ━━ All viewports, all devices
-Premium Futuristic Visuals  ━━ XR-native design language
-```
-
-###  Performance Architecture
-```
-Lazy-loaded 3D Models       ━━ Suspense + LOD optimization
-Optimized Animations        ━━ GPU-composited transforms
-Smooth 60fps Rendering      ━━ R3F fiber performance loop
-```
-
----
-
-##  Tech Stack
-
-<div align="center">
-
-| Layer | Technology | Purpose |
-|:---:|:---|:---|
-|  **Framework** | Next.js 14 | App Router, SSR, Routing |
-|  **UI** | React.js | Component Architecture |
-|  **3D Engine** | Three.js + React Three Fiber | Spatial 3D Rendering |
-|  **Animation** | Framer Motion | Cinematic UI Transitions |
-|  **Styling** | Tailwind CSS | Utility-first Theming |
-|  **3D Helpers** | Drei | Camera, Controls, Loaders |
-
-</div>
+| Layer | Technology |
+|:---|:---|
+| **Framework** | Next.js, React.js |
+| **3D Engine** | Three.js, React Three Fiber |
+| **3D Helpers** | Drei |
+| **Animation** | Framer Motion |
+| **Styling** | Tailwind CSS |
 
 ---
 
 ##  Project Structure
 
-```
-◈ drobospace-xr/
-│
+```bash
+drobospace-xr/
 ├── src/
-│   ├── app/
-│   │   ├── explore/          ◂── XR Exploration Portal
-│   │   ├── contact/          ◂── Spatial Contact Interface
-│   │   └── components/       ◂── Reusable XR UI Components
-│   │       ├── HeroScene/    ◂── 3D Entry Experience
-│   │       ├── HeadsetModel/ ◂── Interactive GLB Viewer
-│   │       ├── Particles/    ◂── Ambient Spatial Effects
-│   │       └── GlassPanel/   ◂── Glassmorphism UI Kit
-│
+│   └── app/
+│       ├── explore/          # XR Exploration portal
+│       ├── contact/          # Spatial contact interface
+│       └── components/       # Reusable XR UI components
 └── public/
-    ├── scene.gltf                              ◂── Environment Scene
-    ├── thefuture.glb                           ◂── Hero 3D Asset
-    ├── meta_quest_pro_left_controller.glb      ◂── Left Controller
-    └── meta_quest_pro_right_controller.glb     ◂── Right Controller
+    ├── scene.gltf                              # Environment scene
+    ├── thefuture.glb                           # Hero 3D asset
+    ├── meta_quest_pro_left_controller.glb      # Left controller
+    └── meta_quest_pro_right_controller.glb     # Right controller
 ```
 
 ---
 
-##  Launch Sequence
+## ⚡ Getting Started
+
+### Prerequisites
+- Node.js 18+
+
+### 1. Clone the repository
 
 ```bash
-# ◈ STEP 01 — Clone the XR Repository
-git clone https://github.com/your-username/drobospace-xr.git
-
-# ◈ STEP 02 — Enter the Project Directory
-cd drobospace-xr
-
-# ◈ STEP 03 — Install Dependencies
-npm install
-
-# ◈ STEP 04 — Initialize the Spatial Server
-npm run dev
-
-# ◈ STEP 05 — Open the Portal
-# → http://localhost:3000
+git clone https://github.com/Ahamedin/drobospace-xr.git
 ```
 
+### 2. Move into project directory
+
+```bash
+cd drobospace-xr
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+##  Running the App
+
+### Development
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Production Build
+
+```bash
+npm run build
+npm start
+```
+
+---
+
+##  Deployment
+
+This project is optimized for **Vercel** deployment.
+
+| Setting | Value |
+|:---|:---|
+| **Install Command** | `npm install` |
+| **Build Command** | `npm run build` |
+| **Output Directory** | `.next` |
+
+---
+
+##  Roadmap
+
+- [x] Cinematic intro & entry animation
+- [x] Interactive 3D headset showcase
+- [x] Floating Meta Quest controller models
+- [x] Scroll-based XR storytelling
+- [x] Glassmorphism UI/UX
+- [x] Explore & Contact pages
 ---
 
 ##  Internship Experience
 
-<div align="center">
+This project was developed during my internship at **DrobospaceX Automation** — an AR/VR Training Institute. The internship was unpaid and project-based. The company encouraged interns to contribute innovative ideas and futuristic concepts, which led to this fully immersive XR-based website experience.
 
-```
-╔══════════════════════════════════════════════╗
-║         DrobospaceX Automation               ║
-║         AR/VR Training Institute             ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║  Role    → Immersive Web Developer (Intern)  ║
-║  Type    → Project-based · Unpaid            ║
-║  Output  → Full XR Experience Platform       ║
-╚══════════════════════════════════════════════╝
-```
-
-</div>
-
-The company was building a futuristic AR/VR platform for their training institute and encouraged interns to contribute **innovative, boundary-pushing ideas**. This project is the result — a fully immersive XR-themed web experience developed with creative freedom and technical depth.
+The project helped me gain hands-on experience in Three.js, React Three Fiber, 3D web experiences, AR/VR themed UI design, interactive animations, and Next.js development.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 <div align="center">
 
-```
-  ██████████████████████████████████████████
-  ██                                      ██
-  ██   IKLASH AHAMED                      ██
-  ██   ─────────────────────────────────  ██
-  ██   Full Stack Developer               ██
-  ██   XR & Immersive Web Enthusiast      ██
-  ██   Next.js · Three.js · R3F           ██
-  ██                                      ██
-  ██████████████████████████████████████████
-```
+**Iklash Ahamed**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/Ahamedin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a2e?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://www.linkedin.com/in/iklashahamed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahamedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iklashahamed)
+
+*Full Stack Developer · XR & Immersive Web Enthusiast · Next.js & Three.js Developer*
 
 </div>
 
 ---
 
+##  Conclusion
+
+**DrobospaceX** is designed to push the boundaries of what a training institute website can be — delivering a next-generation spatial web experience powered by **React Three Fiber**, **Three.js**, and **Framer Motion**, making XR education feel as immersive as the technology it teaches.
+
+---
+
 <div align="center">
 
-```
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-   The future of the web is spatial. The future is now.
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-```
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0d1b4b,100:000000&height=100&section=footer&animation=fadeIn)
 
-*If this project inspired you, drop a ⭐ — it fuels the next dimension.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0d1b4b,100:000000&height=120&section=footer&animation=twinkling"/>
+*If this project inspired you, consider giving it a ⭐ — it means a lot!*
 
 </div>
