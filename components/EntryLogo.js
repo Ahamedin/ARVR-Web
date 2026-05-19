@@ -34,8 +34,10 @@ export default function EntryLogo({ onFinish }) {
       {/* Animated Glow */}
       <div className="
         absolute
-        w-[700px]
-        h-[700px]
+        w-[400px]
+        h-[400px]
+        md:w-[700px]
+        md:h-[700px]
         rounded-full
         bg-fuchsia-500/20
         blur-[180px]
@@ -43,8 +45,10 @@ export default function EntryLogo({ onFinish }) {
 
       <div className="
         absolute
-        w-[500px]
-        h-[500px]
+        w-[300px]
+        h-[300px]
+        md:w-[500px]
+        md:h-[500px]
         rounded-full
         bg-cyan-500/20
         blur-[180px]
@@ -69,7 +73,8 @@ export default function EntryLogo({ onFinish }) {
         }}
 
         className="
-          text-5xl
+          text-4xl
+          sm:text-5xl
           md:text-8xl
           font-black
           bg-gradient-to-r

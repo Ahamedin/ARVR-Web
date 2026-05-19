@@ -63,13 +63,13 @@ export default function ScrollOverlay({ scrollY, introDone }) {
   const { word, caption } = sections[section]
 
   return (
-    <div className="absolute top-0 left-0 w-full h-[500vh] pointer-events-none z-20 font-cartoon">
+    <div className="absolute top-0 left-0 w-full h-[300vh] md:h-[500vh] pointer-events-none z-20 font-cartoon">
 
       {/* CENTER CONTENT */}
       <div className="sticky top-0 w-full h-screen flex flex-col items-center justify-center px-6 overflow-hidden">
 
         {/* Glow Background */}
-        <div className="absolute w-[600px] h-[600px] bg-fuchsia-500/20 blur-[180px] rounded-full" />
+        <div className="absolute w-[300px] h-[300px] md:w-[600px] md:h-[600px] bg-fuchsia-500/20 blur-[180px] rounded-full" />
 
         <AnimatePresence mode="wait">
 

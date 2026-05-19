@@ -173,12 +173,12 @@ export default function ExplorePage() {
       {sections.map((sec, idx) => (
         <section
           key={idx}
-          className="min-h-screen flex items-center justify-between px-10 md:px-20 py-20 relative z-10"
+          className="min-h-screen flex flex-col md:flex-row items-center justify-between px-6 md:px-10 lg:px-20 py-12 md:py-20 gap-8 md:gap-0 relative z-10"
         >
           {sec.textAlign === 'left' ? (
             <>
               {/* TEXT */}
-              <div className="w-1/2 pr-12">
+              <div className="w-full md:w-1/2 md:pr-12">
                 <motion.h2
                   initial={{ opacity: 0, y: 50 }}
                   whileInView={{ opacity: 1, y: 0 }}
@@ -192,7 +192,7 @@ export default function ExplorePage() {
                   initial={{ opacity: 0, x: -100 }}
                   whileInView={{ opacity: 0.2, x: 0 }}
                   transition={{ duration: 1 }}
-                  className={`text-[5vw] font-extrabold leading-none ${sec.textColor}`}
+                  className={`text-5xl md:text-6xl lg:text-[5vw] font-extrabold leading-none ${sec.textColor}`}
                 >
                   {sec.heading}
                 </motion.h1>
@@ -201,19 +201,19 @@ export default function ExplorePage() {
                   initial={{ opacity: 0, y: 30 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ delay: 0.2, duration: 0.8 }}
-                  className="text-lg mt-6 text-white/85 max-w-xl leading-loose"
+                  className="text-base md:text-lg mt-6 text-white/85 max-w-xl leading-loose"
                 >
                   {sec.caption}
                 </motion.p>
 
-                <div className="grid grid-cols-2 gap-4 mt-8 max-w-xl">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 md:gap-4 mt-8 max-w-xl">
                   {sec.highlights.map((item, i) => (
                     <motion.div
                       key={i}
                       initial={{ opacity: 0, scale: 0.8 }}
                       whileInView={{ opacity: 1, scale: 1 }}
                       transition={{ delay: i * 0.1 }}
-                      className="bg-white/10 border border-white/20 backdrop-blur-md rounded-2xl px-5 py-4 text-sm font-semibold text-white shadow-2xl"
+                      className="bg-white/10 border border-white/20 backdrop-blur-md rounded-2xl px-4 md:px-5 py-3 md:py-4 text-xs md:text-sm font-semibold text-white shadow-2xl"
                     >
                       {item}
                     </motion.div>
@@ -222,7 +222,7 @@ export default function ExplorePage() {
               </div>
 
               {/* MODEL */}
-              <div className="w-1/2 h-[80vh]">
+              <div className="w-full md:w-1/2 h-[50vh] md:h-[80vh]">
                 <Canvas camera={{ position: [0, 1, 5], fov: 45 }}>
                   <ambientLight intensity={1.4} />
 
@@ -310,7 +310,7 @@ export default function ExplorePage() {
               </div>
 
               {/* TEXT */}
-              <div className="w-1/2 pl-12">
+              <div className="w-full md:w-1/2 md:pl-12">
                 <motion.h2
                   initial={{ opacity: 0, y: 50 }}
                   whileInView={{ opacity: 1, y: 0 }}
@@ -324,7 +324,7 @@ export default function ExplorePage() {
                   initial={{ opacity: 0, x: 100 }}
                   whileInView={{ opacity: 0.2, x: 0 }}
                   transition={{ duration: 1 }}
-                  className={`text-[5vw] font-extrabold leading-none ${sec.textColor}`}
+                  className={`text-5xl md:text-6xl lg:text-[5vw] font-extrabold leading-none ${sec.textColor}`}
                 >
                   {sec.heading}
                 </motion.h1>
@@ -333,12 +333,12 @@ export default function ExplorePage() {
                   initial={{ opacity: 0, y: 30 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ delay: 0.2, duration: 0.8 }}
-                  className="text-lg mt-6 text-white/85 max-w-xl leading-loose"
+                  className="text-base md:text-lg mt-6 text-white/85 max-w-xl leading-loose"
                 >
                   {sec.caption}
                 </motion.p>
 
-                <div className="grid grid-cols-2 gap-4 mt-8 max-w-xl">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 md:gap-4 mt-8 max-w-xl">
                   {sec.highlights.map((item, i) => (
                     <motion.div
                       key={i}

@@ -13,9 +13,9 @@ export default function Home() {
   const [introDone, setIntroDone] = useState(false)
 
   return (
-    <div className="relative w-full h-[500vh]">
+    <div className="relative w-full h-[300vh] md:h-[500vh]">
       {/* BACKGROUND GRADIENT */}
-      <div className="absolute top-0 left-0 w-full h-[500vh] z-[-1]">
+      <div className="absolute top-0 left-0 w-full h-[300vh] md:h-[500vh] z-[-1]">
         <motion.div
           className="w-full h-full bg-gradient-to-br from-[#1F1C2C] via-[#928DAB] to-[#F3E7E9]"
           animate={{ backgroundPosition: ['0% 50%', '100% 50%', '0% 50%'] }}
