@@ -183,7 +183,7 @@ export default function ExplorePage() {
                   initial={{ opacity: 0, y: 50 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.8 }}
-                  className="text-sm tracking-[0.5em] uppercase text-white/60 mb-4"
+                  className="text-[0.65rem] sm:text-sm tracking-[0.25em] sm:tracking-[0.4em] uppercase text-white/60 mb-4"
                 >
                   {sec.subheading}
                 </motion.h2>
@@ -192,7 +192,7 @@ export default function ExplorePage() {
                   initial={{ opacity: 0, x: -100 }}
                   whileInView={{ opacity: 0.2, x: 0 }}
                   transition={{ duration: 1 }}
-                  className={`text-5xl md:text-6xl lg:text-[5vw] font-extrabold leading-none ${sec.textColor}`}
+                  className={`text-4xl sm:text-5xl md:text-6xl lg:text-[5vw] font-extrabold leading-none ${sec.textColor}`}
                 >
                   {sec.heading}
                 </motion.h1>
@@ -213,7 +213,7 @@ export default function ExplorePage() {
                       initial={{ opacity: 0, scale: 0.8 }}
                       whileInView={{ opacity: 1, scale: 1 }}
                       transition={{ delay: i * 0.1 }}
-                      className="bg-white/10 border border-white/20 backdrop-blur-md rounded-2xl px-4 md:px-5 py-3 md:py-4 text-xs md:text-sm font-semibold text-white shadow-2xl"
+                      className="bg-white/10 border border-white/20 backdrop-blur-md rounded-2xl px-4 md:px-5 py-3 md:py-4 text-[0.7rem] sm:text-xs md:text-sm font-semibold text-white shadow-2xl"
                     >
                       {item}
                     </motion.div>
@@ -315,7 +315,7 @@ export default function ExplorePage() {
                   initial={{ opacity: 0, y: 50 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.8 }}
-                  className="text-sm tracking-[0.5em] uppercase text-white/60 mb-4"
+                  className="text-[0.65rem] sm:text-sm tracking-[0.25em] sm:tracking-[0.4em] uppercase text-white/60 mb-4"
                 >
                   {sec.subheading}
                 </motion.h2>
@@ -324,7 +324,7 @@ export default function ExplorePage() {
                   initial={{ opacity: 0, x: 100 }}
                   whileInView={{ opacity: 0.2, x: 0 }}
                   transition={{ duration: 1 }}
-                  className={`text-5xl md:text-6xl lg:text-[5vw] font-extrabold leading-none ${sec.textColor}`}
+                  className={`text-4xl sm:text-5xl md:text-6xl lg:text-[5vw] font-extrabold leading-none ${sec.textColor}`}
                 >
                   {sec.heading}
                 </motion.h1>
@@ -345,7 +345,7 @@ export default function ExplorePage() {
                       initial={{ opacity: 0, scale: 0.8 }}
                       whileInView={{ opacity: 1, scale: 1 }}
                       transition={{ delay: i * 0.1 }}
-                      className="bg-white/10 border border-white/20 backdrop-blur-md rounded-2xl px-5 py-4 text-sm font-semibold text-white shadow-2xl"
+                      className="bg-white/10 border border-white/20 backdrop-blur-md rounded-2xl px-4 md:px-5 py-3 md:py-4 text-[0.7rem] sm:text-xs md:text-sm font-semibold text-white shadow-2xl"
                     >
                       {item}
                     </motion.div>

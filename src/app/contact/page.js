@@ -29,7 +29,7 @@ export default function ContactPage() {
       <section className="mx-auto flex min-h-screen max-w-6xl items-center px-6 py-20 md:px-10">
         <div className="w-full text-center">
           <motion.h1
-            className="text-5xl font-extrabold tracking-[0.35em] md:text-[9vw] md:leading-none"
+            className="text-3xl sm:text-4xl md:text-[9vw] font-extrabold tracking-[0.22em] sm:tracking-[0.3em] md:tracking-[0.35em] md:leading-none"
             initial={{ opacity: 0, y: 40 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
@@ -38,7 +38,7 @@ export default function ContactPage() {
           </motion.h1>
 
           <motion.h2
-            className="mt-6 text-lg font-semibold tracking-[0.3em] text-white/85 md:text-3xl"
+            className="mt-5 text-sm sm:text-base font-semibold tracking-[0.18em] sm:tracking-[0.25em] text-white/85 md:text-3xl md:tracking-[0.3em]"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.25 }}
@@ -47,7 +47,7 @@ export default function ContactPage() {
           </motion.h2>
 
           <motion.p
-            className="mx-auto mt-8 max-w-4xl text-base leading-relaxed text-white/75 md:text-2xl"
+            className="mx-auto mt-8 max-w-4xl text-sm leading-relaxed text-white/75 sm:text-base md:text-2xl"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.45 }}
@@ -66,7 +66,7 @@ export default function ContactPage() {
             {capabilities.map((item) => (
               <div
                 key={item}
-                className="rounded-full border border-white/20 bg-white/10 px-6 py-3 text-sm font-semibold backdrop-blur-xl"
+                className="rounded-full border border-white/20 bg-white/10 px-4 py-2 text-xs font-semibold backdrop-blur-xl sm:px-6 sm:py-3 sm:text-sm"
               >
                 {item}
               </div>
@@ -77,8 +77,8 @@ export default function ContactPage() {
 
       <section className="mx-auto grid max-w-6xl gap-6 px-6 py-10 md:grid-cols-2 md:px-10">
         <div className="rounded-[2rem] border border-white/15 bg-white/8 p-8 backdrop-blur-xl md:p-10">
-          <h3 className="text-3xl font-extrabold tracking-wide">WHO WE ARE</h3>
-          <p className="mt-6 text-lg leading-8 text-white/80">
+          <h3 className="text-2xl sm:text-3xl font-extrabold tracking-wide">WHO WE ARE</h3>
+          <p className="mt-6 text-sm leading-7 text-white/80 sm:text-base md:text-lg md:leading-8">
             DrobospaceX Automation builds immersive digital ecosystems for the
             next era of interaction. We combine creativity, artificial
             intelligence, spatial computing, and modern web technologies to
@@ -87,11 +87,11 @@ export default function ContactPage() {
         </div>
 
         <div className="rounded-[2rem] border border-white/15 bg-white/8 p-8 backdrop-blur-xl md:p-10">
-          <h3 className="text-3xl font-extrabold tracking-wide">CONNECT</h3>
-          <p className="mt-6 text-2xl font-semibold text-white/90">
+          <h3 className="text-2xl sm:text-3xl font-extrabold tracking-wide">CONNECT</h3>
+          <p className="mt-6 text-lg font-semibold text-white/90 sm:text-xl md:text-2xl">
             contact@drobospacex.com
           </p>
-          <p className="mt-4 text-lg leading-8 text-white/75">
+          <p className="mt-4 text-sm leading-7 text-white/75 sm:text-base md:text-lg md:leading-8">
             Lets collaborate and build the next generation of immersive
             experiences together.
           </p>
@@ -99,12 +99,12 @@ export default function ContactPage() {
       </section>
 
       <section className="mx-auto max-w-6xl px-6 py-10 md:px-10">
-        <h3 className="text-3xl font-extrabold tracking-wide">OUR SERVICES</h3>
+        <h3 className="text-2xl sm:text-3xl font-extrabold tracking-wide">OUR SERVICES</h3>
         <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {services.map((item) => (
             <div
               key={item}
-              className="rounded-3xl border border-white/15 bg-white/8 p-5 font-semibold text-white/90 backdrop-blur-xl transition-transform duration-300 hover:-translate-y-1 hover:bg-white/12"
+              className="rounded-3xl border border-white/15 bg-white/8 p-4 text-sm font-semibold text-white/90 backdrop-blur-xl transition-transform duration-300 hover:-translate-y-1 hover:bg-white/12 sm:p-5 sm:text-base"
             >
               {item}
             </div>
@@ -113,8 +113,8 @@ export default function ContactPage() {
       </section>
 
       <section className="mx-auto max-w-6xl px-6 py-10 pb-20 md:px-10">
-        <h3 className="text-3xl font-extrabold tracking-wide">OUR VISION</h3>
-        <p className="mt-6 max-w-4xl text-lg leading-8 text-white/80">
+        <h3 className="text-2xl sm:text-3xl font-extrabold tracking-wide">OUR VISION</h3>
+        <p className="mt-6 max-w-4xl text-sm leading-7 text-white/80 sm:text-base md:text-lg md:leading-8">
           To create a future where immersive technology becomes a natural
           extension of human creativity and communication. We envision
           intelligent digital experiences that inspire innovation, transform
@@ -125,7 +125,7 @@ export default function ContactPage() {
           {values.map((item) => (
             <div
               key={item}
-              className="rounded-full border border-white/15 bg-white/8 px-6 py-3 font-semibold text-white/90 backdrop-blur-xl"
+              className="rounded-full border border-white/15 bg-white/8 px-4 py-2 text-xs font-semibold text-white/90 backdrop-blur-xl sm:px-6 sm:py-3 sm:text-sm"
             >
               {item}
             </div>

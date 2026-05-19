@@ -88,7 +88,8 @@ export default function ScrollOverlay({ scrollY, introDone }) {
               animate={{ opacity: 1, letterSpacing: '-0.05em' }}
               transition={{ duration: 1.2 }}
               className="
-              text-[24vw]
+              text-[18vw]
+              sm:text-[20vw]
               md:text-[18vw]
               lg:text-[14vw]
               font-black
@@ -127,7 +128,8 @@ export default function ScrollOverlay({ scrollY, introDone }) {
               <p
                 className="
                 text-white/90
-                text-lg
+                text-sm
+                sm:text-base
                 md:text-2xl
                 font-medium
                 text-center
@@ -177,7 +179,8 @@ export default function ScrollOverlay({ scrollY, introDone }) {
               via-purple-500
               to-fuchsia-500
               text-white
-              text-lg
+              text-sm
+              sm:text-base
               md:text-xl
               font-bold
               tracking-wide

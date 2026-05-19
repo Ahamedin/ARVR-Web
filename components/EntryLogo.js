@@ -73,8 +73,8 @@ export default function EntryLogo({ onFinish }) {
         }}
 
         className="
-          text-4xl
-          sm:text-5xl
+          text-3xl
+          sm:text-4xl
           md:text-8xl
           font-black
           bg-gradient-to-r
@@ -105,7 +105,8 @@ export default function EntryLogo({ onFinish }) {
           mt-8
           text-white/70
           text-center
-          text-lg
+          text-sm
+          sm:text-base
           md:text-2xl
           tracking-[0.2em]
           max-w-3xl
@@ -180,7 +181,8 @@ export default function EntryLogo({ onFinish }) {
           bottom-10
           text-white/40
           tracking-[0.3em]
-          text-sm
+          text-[0.65rem]
+          sm:text-sm
         "
       >
         DROBOSPACEX AUTOMATION
