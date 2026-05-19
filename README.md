@@ -12,17 +12,19 @@
 [![R3F](https://img.shields.io/badge/React_Three_Fiber-0a0a2e?style=for-the-badge&logo=react&logoColor=7df9ff)](https://docs.pmnd.rs)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d0d2b?style=for-the-badge&logo=framer&logoColor=00f5ff)](https://www.framer.com/motion/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a2e?style=for-the-badge&logo=tailwind-css&logoColor=00f5ff)](https://tailwindcss.com)
-
+[![Drei](https://img.shields.io/badge/Drei-000000?style=for-the-badge&logo=threedotjs&logoColor=7df9ff)](https://github.com/pmndrs/drei)
 
 <br/>
-[![Live Demo](https://img.shields.io/badge/Live_Demo--0ea5e9?style=for-the-badge)](https://arvr-web.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-arvr--web.vercel.app-00f5ff?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0a0a2e)](https://arvr-web.vercel.app/)
 [![Internship](https://img.shields.io/badge/Internship-DrobospaceX_Automation-7df9ff?style=for-the-badge&labelColor=0d1b4b)](.)
+[![Status](https://img.shields.io/badge/Status-Live-00f5ff?style=for-the-badge&labelColor=0a0a2e)](.)
 
 </div>
 
 ---
 
-##  What is DrobospaceX XR?
+## 🌌 What is DrobospaceX XR?
 
 **DrobospaceX** is an immersive AR/VR experience website built during an internship at **DrobospaceX Automation**, designed for their AR/VR Training Institute. It delivers a cinematic, spatial web experience where users don't just browse — they **explore**.
 
@@ -32,25 +34,25 @@ Built with cutting-edge 3D web technologies, DrobospaceX transforms a standard t
 
 ---
 
-##  Features
+## ✨ Features
 
 <table>
 <tr>
 <td width="50%">
 
-###  Cinematic Intro Experience
+### 🎬 Cinematic Intro Experience
 - Animated entry loader
 - 3D logo animation
 - Smooth scene transitions
 - Futuristic glow effects
 
-###  Immersive XR Sections
+### 🥽 Immersive XR Sections
 - Interactive 3D headset showcase
 - Floating Meta Quest controllers
 - Smooth scroll-based storytelling
 - Dynamic lighting and particles
 
-###  Modern UI/UX Design
+### 🌐 Modern UI/UX Design
 - Glassmorphism components
 - Animated gradients
 - Responsive layout
@@ -59,19 +61,19 @@ Built with cutting-edge 3D web technologies, DrobospaceX transforms a standard t
 </td>
 <td width="50%">
 
-###  Performance Optimized
+### ⚡ Performance Optimized
 - Lazy loaded 3D models
 - Optimized animations
 - Smooth 60fps rendering
 - Suspense-based model loading
 
-###  3D Model Integration
+### 🧩 3D Model Integration
 - GLTF/GLB environment scene
 - Meta Quest Pro controller models
 - Real-time interactive model viewer
 - Physics-aware hover animations
 
-###  Pages & Navigation
+### 🔐 Pages & Navigation
 - XR Exploration portal
 - Spatial contact interface
 - Smooth page transitions
@@ -95,7 +97,7 @@ Built with cutting-edge 3D web technologies, DrobospaceX transforms a standard t
 
 ---
 
-##  Project Structure
+## 📂 Project Structure
 
 ```bash
 drobospace-xr/
@@ -138,7 +140,7 @@ npm install
 
 ---
 
-##  Running the App
+## 🚀 Running the App
 
 ### Development
 
@@ -157,7 +159,7 @@ npm start
 
 ---
 
-##  Deployment
+## ☁️ Deployment
 
 This project is optimized for **Vercel** deployment.
 
@@ -169,7 +171,7 @@ This project is optimized for **Vercel** deployment.
 
 ---
 
-##  Roadmap
+## 🔭 Roadmap
 
 - [x] Cinematic intro & entry animation
 - [x] Interactive 3D headset showcase
@@ -177,9 +179,16 @@ This project is optimized for **Vercel** deployment.
 - [x] Scroll-based XR storytelling
 - [x] Glassmorphism UI/UX
 - [x] Explore & Contact pages
+- [ ] Multiplayer metaverse interactions
+- [ ] AI-powered XR assistant
+- [ ] VR classroom integration
+- [ ] Real-time avatar system
+- [ ] WebXR native support
+- [ ] Interactive training simulations
+
 ---
 
-##  Internship Experience
+## 🎯 Internship Experience
 
 This project was developed during my internship at **DrobospaceX Automation** — an AR/VR Training Institute. The internship was unpaid and project-based. The company encouraged interns to contribute innovative ideas and futuristic concepts, which led to this fully immersive XR-based website experience.
 
@@ -187,7 +196,7 @@ The project helped me gain hands-on experience in Three.js, React Three Fiber, 3
 
 ---
 
-##  Author
+## 👨‍💻 Author
 
 <div align="center">
 
@@ -202,7 +211,7 @@ The project helped me gain hands-on experience in Three.js, React Three Fiber, 3
 
 ---
 
-##  Conclusion
+## 🏁 Conclusion
 
 **DrobospaceX** is designed to push the boundaries of what a training institute website can be — delivering a next-generation spatial web experience powered by **React Three Fiber**, **Three.js**, and **Framer Motion**, making XR education feel as immersive as the technology it teaches.
 
