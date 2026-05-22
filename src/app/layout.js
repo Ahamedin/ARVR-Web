@@ -16,6 +16,11 @@ export const metadata = {
   description: "Step into the next reality with cutting-edge AR, VR, AI, and 3D experiences. DrobospaceX transforms ideas into immersive digital realities.",
   keywords: "AR, VR, XR, Metaverse, 3D, AI, Immersive Technology, Spatial Computing",
   authors: [{ name: "DrobospaceX Automation" }],
+  icons: {
+    icon: '/globe.svg',
+    apple: '/globe.svg',
+    shortcut: '/file.svg'
+  },
   openGraph: {
     title: "DrobospaceX - Immersive Future Technologies",
     description: "Transforming ideas into immersive digital realities through cutting-edge AR, VR, AI, 3D experiences, and next-generation web innovation.",
